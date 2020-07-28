@@ -1,0 +1,21 @@
+NO OLVIDAR EN MODO PRODUCCIÓN - (SERVIDOR REMOTO)
+
+- Cambiar la conexión a la base de datos del Hosting
+
+- Cambiar las rutas de los proyectos: frontend y backend
+
+- Confirmar funcionamiento de los correos electrónicos enviados por el sistema
+
+- Cambiar la ruta de la API de Facebook por el dominio del proyecto
+https://developers.facebook.com/
+
+- Cambiar la ruta de la API de Google por el dominio del proyecto
+https://console.developers.google.com
+
+- Cambiar la ruta de la API de Paypal
+- Cambiar las credenciales de Paypal a modo "live"
+https://developer.paypal.com
+
+- Cambiar las credenciales de PAYU a modo "live"
+
+
